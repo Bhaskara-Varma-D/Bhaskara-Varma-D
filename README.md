@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bhaskara-Varma-D
 - 👀 I’m interested in Development and Stuff
 - 🌱 I’m currently learning about Full-stack Development(MERN Stack)
+- Have profiency in languages C, C++, Java, Python
 
 <!---
 Bhaskara-Varma-D/Bhaskara-Varma-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
